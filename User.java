@@ -9,7 +9,6 @@ public class User {
         setName(name);
         
 
-
     }
 
     void addCalendar(String calName){
