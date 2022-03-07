@@ -1,6 +1,6 @@
 # Calendar Application (Samhitha Tarra)
 
-By following all the outlined steps in order with example inputs you will see how I satisfied each of the 8 requirements selected. Keep in mind this program is case-sensitive. 
+`By` following all the outlined steps in order with example inputs you will see how I satisfied each of the 8 requirements selected. Keep in mind this program is case-sensitive. 
 
 I used openjdk version "16.0.1" 2021-04-20.
 
